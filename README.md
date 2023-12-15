@@ -1,3 +1,9 @@
+# This fork allows you to use Resemble Enhance on Windows. 
+## Note that you need to have python 3.10.x and CUDA 11.8 to make it work.
+## Run install.bat and then launch.bat
+
+<hr>
+
 # Resemble Enhance
 
 [![PyPI](https://img.shields.io/pypi/v/resemble-enhance.svg)](https://pypi.org/project/resemble-enhance/)
