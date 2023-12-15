@@ -2,6 +2,7 @@
 ## Note that you need to have python 3.10.x and CUDA 11.8 to make it work.
 ## Run install.bat and then launch.bat
 
+### Tests show, video memory utilization of about 3GB
 <hr>
 
 # Resemble Enhance
