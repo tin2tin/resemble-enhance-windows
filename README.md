@@ -1,5 +1,5 @@
 # This fork allows you to use Resemble Enhance on Windows. 
-## Note that you need to have python 3.10.x and CUDA 11.8 to make it work.
+## Note that you need to have python 3.10.x or python 3.11 and CUDA 11.8 to make it work.
 ## Run install.bat and then launch.bat
 
 ## I have done a little optimization, now this project should run smoothly on 8GB VRAM, if you have problems with long audio reduce chunk seconds
