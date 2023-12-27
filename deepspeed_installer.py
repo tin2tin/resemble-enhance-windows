@@ -27,7 +27,7 @@ def check_and_install_torch():
         logger.info(f"'{required_torch_version}' already installed.")
 
 def install_deepspeed_based_on_python_version():
-    check_and_install_torch()
+    # check_and_install_torch()
     if not is_package_installed('deepspeed'):
         python_version = sys.version_info
 
